@@ -1,0 +1,3 @@
+What is the length of password would you want to create it: 10
+Your password is : !Hq&Qz0uS3
+
