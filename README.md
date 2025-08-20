@@ -13,5 +13,5 @@ It creates strong passwords with:
 
 ## ▶️ How to Run
 ```bash
-python3 password_generator.py
+python3 password_generation.py
 
